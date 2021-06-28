@@ -1,5 +1,9 @@
 git init
 
+git config --list
+
+git config --global --list
+
 git add <file_name>
 git add .
 git add *.txt
